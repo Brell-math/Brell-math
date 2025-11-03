@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Brell
+# 👋 Salut, je suis Brell-math
 
 🎓 Étudiant en **Licence d’Enseignement Mathématiques**, passionné par la rigueur logique, la démonstration et la transmission des savoirs.  
 📈 Je m’oriente progressivement vers les **mathématiques appliquées**, en particulier leurs liens avec l’informatique et la science des données.  
