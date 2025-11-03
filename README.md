@@ -25,7 +25,7 @@ Je souhaite à terme mettre mes compétences au service de la recherche et de l�
 | Mathématiques | Analyse, Algèbre, Géométrie, Probabilités et Statistiques |
 | Outils informatiques | Python (bases), Excel, LaTeX |
 | En apprentissage | Modélisation numérique, Data Science |
-| Langues | 🇫🇷 Français (natif), 🇮🇹 Italien (en apprentissage), 🇬🇧 Anglais (académique) |
+| Langues | 🇫🇷 Français (natif), 🇬🇧 Anglais (académique) |
 
 ---
 
@@ -58,28 +58,9 @@ J’utilise GitHub pour documenter mes apprentissages et mes explorations mathé
 ## 🌐 Me retrouver
 
 - 💼 [LinkedIn](https://linkedin.com/in/tonprofil)  
-- ✉️ **brell.math@email.com**  
+- ✉️ **banzouzijuliano@gmail.com**  
 - 📂 [GitHub](https://github.com/brell-math)
 
 ---
 
 > _« La rigueur est la base de toute science, mais l’application en révèle la portée. »_
-
-| Catégorie | Compétences |
-|------------|-------------|
-| Mathématiques | Analyse, Algèbre, Statistiques, Optimisation |
-| Programmation | Python, NumPy, Matplotlib, Pandas |
-| Outils | Git, GitHub, LaTeX, Jupyter Notebook |
-| Langues | 🇫🇷 Français, 🇬🇧 Anglais |
-
----
-
-## 🌐 Me retrouver
-
-- 💼 [LinkedIn](https://linkedin.com/in/ton-profil)  
-- 🧮 [Kaggle](https://kaggle.com/tonprofil)  
-- ✉️ **banzouzijuliano96@gmail.com**
-
----
-
-> _« Les mathématiques ne sont pas un outil, mais un langage pour comprendre le monde. »_
