@@ -70,7 +70,7 @@ J’utilise GitHub pour documenter mes apprentissages et mes explorations mathé
 | Mathématiques | Analyse, Algèbre, Statistiques, Optimisation |
 | Programmation | Python, NumPy, Matplotlib, Pandas |
 | Outils | Git, GitHub, LaTeX, Jupyter Notebook |
-| Langues | 🇫🇷 Français, 🇮🇹 Italien (en apprentissage), 🇬🇧 Anglais |
+| Langues | 🇫🇷 Français, 🇬🇧 Anglais |
 
 ---
 
@@ -78,7 +78,7 @@ J’utilise GitHub pour documenter mes apprentissages et mes explorations mathé
 
 - 💼 [LinkedIn](https://linkedin.com/in/ton-profil)  
 - 🧮 [Kaggle](https://kaggle.com/tonprofil)  
-- ✉️ **brade@email.com**
+- ✉️ **banzouzijuliano96@gmail.com**
 
 ---
 
